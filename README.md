@@ -11,4 +11,4 @@ for that I apply following changes.
    But you need to install Peer.js package locally.It is added to package.json file now.
 6. Adding a 500 ms delay before sending broadcast message to clients.
 
-> **Note** Do not forget to add **https://**  before url, otherwise is does not work
+> **Note** Do not forget to add **https://**  before url in browsers, otherwise is does not work. As you know it is a https server now.
